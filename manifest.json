@@ -1,0 +1,19 @@
+{
+  "name": "11Croco",
+  "short_name": "11Croco",
+  "theme_color": "",
+  "background_color": "#1D0C28",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764163664-favicon-www11crococom.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
